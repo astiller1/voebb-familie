@@ -1,0 +1,10 @@
+# Zugangsdaten nie ins Repo
+.env
+*.env
+secrets/
+# Gespeicherte VÖBB-Seiten enthalten persönliche Daten
+samples/private/
+# Python
+__pycache__/
+.venv/
+*.pyc
