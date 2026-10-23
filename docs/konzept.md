@@ -1,5 +1,10 @@
 # Konzept
 
+## Entscheidung (23.10.2026)
+VideLibri funktioniert mit beiden VÖBB-Ausweisen. Damit ist das Problem gelöst, eine eigene App wird
+vorerst **nicht** entwickelt. Das Konzept unten bleibt als Plan B, falls VideLibri mit VÖBB einmal nicht
+mehr funktioniert oder eine Funktion fehlt.
+
 ## Problem
 Zwei Kinder, zwei VÖBB-Ausweise. Die offizielle Oberfläche (voebb.de) hat häufig Login-Probleme und zeigt
 immer nur ein Konto. Ein Überblick über Rückgabefristen erfordert ständiges Hin- und Herwechseln.
@@ -37,7 +42,7 @@ immer nur ein Konto. Ein Überblick über Rückgabefristen erfordert ständiges 
 - „Wo zurückgeben?“ – erst klären, ob VÖBB-Medien in jeder VÖBB-Bibliothek zurückgegeben werden können
 
 ## Offene Fragen
-1. Funktioniert VideLibri mit beiden Karten?
+1. ~~Funktioniert VideLibri mit beiden Karten?~~ Ja.
 2. Gibt es einen Rechner, der dauerhaft läuft (Raspberry Pi, NAS)?
 3. Nutzen alle in der Familie Android?
 4. Reichen Kalender-Erinnerungen, oder soll auch per Klick verlängert werden?

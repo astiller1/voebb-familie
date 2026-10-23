@@ -3,7 +3,8 @@
 Eine gemeinsame Übersicht für mehrere Bibliothekskonten im VÖBB (Verbund der Öffentlichen Bibliotheken
 Berlins), z. B. die Ausweise der Kinder: Was ist ausgeliehen, wann muss es zurück, was kann verlängert werden?
 
-**Status:** Konzeptphase, noch kein Code. Siehe [`docs/konzept.md`](docs/konzept.md).
+**Status:** Pausiert, keine eigene Entwicklung nötig. Die App **VideLibri** funktioniert mit beiden Karten
+(Test Oktober 2026). Siehe [`docs/konzept.md`](docs/konzept.md).
 
 ## Grundsätze
 - Privates Werkzeug für die eigene Familie, kein öffentlicher Dienst.
